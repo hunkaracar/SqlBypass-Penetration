@@ -1,10 +1,10 @@
 # SQLBypass-Penetration
 
-## SQL Injection ve Active Directory Penetration Testing Örnekleri
+## SQL Injection and Active Directory Penetration Testing Examples
 
-### Temel SQL Injection
+### Basic SQL Injection
 
-#### Örnek 1: Basit SQL Injection
+#### Exam 1: Simple SQL Injection
 
 #SELECT * FROM accounts WHERE username=david AND password='1234' AND 1=1#
 
