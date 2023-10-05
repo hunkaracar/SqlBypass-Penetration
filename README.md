@@ -6,7 +6,6 @@
 
 #### Örnek 1: Basit SQL Injection
 
-### sql
 #SELECT * FROM accounts WHERE username=david AND password='1234' AND 1=1#
 
 ### Exam 2: Login Bypass
